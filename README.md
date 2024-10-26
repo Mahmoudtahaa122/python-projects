@@ -1,7 +1,7 @@
 
 # Python Projects
 
-Welcome to the **Python Projects** repository! This is a collection of Python scripts showcasing a range of functionality, from simple calculations to more complex applications. Feel free to explore, contribute, or use the projects as learning tools.
+Welcome to the **Python Projects** repository! This is a collection of Python scripts showcasing a range of functionality, from simple calculations to more complex applications. Feel free to explore, contribute, or use these projects as learning tools.
 
 ## Table of Contents
 - [Projects Overview](#projects-overview)
@@ -22,6 +22,11 @@ Welcome to the **Python Projects** repository! This is a collection of Python sc
    - Square root (√)
 
    [Basic Calculator Script](./basic_calculator.py)
+
+2. **Character Counter**  
+   A simple script that counts the number of characters in a given text input.
+
+   [Character Counter Script](./character_counter.py)
 
 ## Getting Started
 
@@ -46,7 +51,13 @@ To run the **Basic Calculator**, use the following command:
 python3 basic_calculator.py
 ```
 
-Follow the instructions on the screen to perform operations.
+To run the **Character Counter**, use the following command:
+
+```bash
+python3 character_counter.py
+```
+
+Follow the instructions on the screen to use each tool.
 
 ## Contributing
 
